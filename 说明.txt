@@ -1,0 +1,10 @@
+Elasticsearch 有两个.Net类库：Elasticsearch.Net和NEST
+
+安装包
+Install-Package Elasticsearch.Net -Version 5.4.0
+
+Install-Package NEST -Version 5.4.0
+Install-Package Newtonsoft.Json -Version 10.0.2
+
+如果无法安装，升级NuGet到最新版本：
+工具 --> 扩展和更新 --> NuGet管理器
